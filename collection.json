@@ -1,0 +1,11 @@
+{
+    "name": "PandaLoto NFTs",
+    "description": "Join PandaLoto - the first TON lottery on Telegram!\nThousands of participants have already won. You can also try your luck andget exciting draws and incredible prizes. Participate now: https: //t.me/PandaLotteryBot 🍀🎉",
+    "image": "https://raw.githubusercontent.com/attikusfinch/PandaLotoNft/main/avatar_nft.png",
+    "cover_image": "https://raw.githubusercontent.com/attikusfinch/PandaLotoNft/main/cover.png",
+    "social_links": [
+        "https://t.me/PandaLotteryBot",
+        "https://t.me/PandaLoto",
+        "https://t.me/PandaLoto_Chat"
+    ]
+}
